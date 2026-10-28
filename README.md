@@ -3,5 +3,7 @@
 git init
 
 git add .
+
 git commit -m "名称"
-g
+
+git remote add origin https://github.com/cyandrop/practice
